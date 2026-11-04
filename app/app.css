@@ -13,3 +13,17 @@ body {
     color-scheme: dark;
   }
 }
+
+button {
+  width: 100px;
+  height: 100px;
+  border-radius: 16px;
+  background: #22C1C3;
+  background: linear-gradient(4300deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+}
+
+select {
+  padding: 8px 16px;
+  border: 2px solid white;
+  border-radius: 8px;
+}
